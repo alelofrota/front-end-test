@@ -1,4 +1,15 @@
-# Front End Test - Alelo Frota
+# Frontend Test - Alelo Frota 2020
+---
+
+## Sobre o Alelo Auto
+
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+
+## Stack
+
+- *Frontend*: Angular 8, SCSS (com metodologia BEM CSS), Design System interno
+- *Backend*: Springboot, ...
+
 
 ## Objetivo
 
@@ -8,9 +19,20 @@
 
 - Implementar a lógica de paginação para carregar 10 itens por página;
 - Implementar filtro de busca por placa do veículo;
-- Utilizar Angular 8+
+- Deve ser feito utilizando Angular 8+ e pré-processador SCSS;
 
 
 ### O que esperamos ver
 
+- Utilização de rotas;
+- Paginação
+- Filtro buscando na API
+- Layout responsivo
+
 ### O que gostariamos de ver
+
+- Metodologia CSS
+- Mixins, placeholders, functions, variáveis, animações, loaders...
+- Rxjs
+- Tratamento de erros
+- Teste unitário

@@ -1,7 +1,7 @@
-### Guide
+# Guide
 
 ---
-## Paleta de cores
+### Paleta de cores
 ###### Principais
 
 - `#BC2F6C` - magenta
