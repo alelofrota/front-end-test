@@ -1,6 +1,6 @@
 # Frontend Test - Alelo Frota 2020
 
-Estamos migrando todo o sistema legado do produto Alelo para uma nova tecnologia e buscamos desenvolvedores com experiência em Angular para nos ajudar nesse desafio.
+Estamos migrando todo o sistema legado do produto Alelo Frota para uma nova tecnologia e buscamos desenvolvedores com experiência em Angular para nos ajudar nesse desafio.
 
 ## Sobre o Alelo Frota
 
@@ -34,7 +34,7 @@ O Alelo Frota, que é uma plataforma que gerencia todas as suas despesas automot
 
 - Adaptar o [layout](./LAYOUT.md) proposto para ser responsivo, considerando mobile-first sem utilizar frameworks CSS e seguindo o [guide e padrões](./GUIDE.md) definidos.
 
-- Integrar os dados na tela utilizando a [API](./ENDPOINT.md) criado no [mockapi.io](https://5e1f3d7d39f7a80014a5a349.mockapi.io/api/v1/vehicle);
+- Integrar os dados na tela utilizando a [API](./ENDPOINT.md) criado no [mockapi.io](https://5eb9ba733f97140016992030.mockapi.io/vehicle);
 
 - Implementar a lógica de paginação para carregar 10 itens por página (5 paginas);
 - Implementar filtro de busca por placa do veículo;

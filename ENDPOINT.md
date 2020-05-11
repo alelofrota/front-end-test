@@ -1,15 +1,22 @@
 ## Endpoint
 ---
 
-- lista todos veículos
-`https://5e1f3d7d39f7a80014a5a349.mockapi.io/api/v1/vehicle`
+- listar todos veículos:
 
-- lista 10 itens da primeira página
+`https://5eb9ba733f97140016992030.mockapi.io/vehicle/vehicle`
 
-`https://5e1f3d7d39f7a80014a5a349.mockapi.io/api/v1/vehicle?page=1&limit=10`
+- listar 10 itens da primeira página:
 
-- lista os itens com status active
-`https://5e1f3d7d39f7a80014a5a349.mockapi.io/api/v1/vehicle?filter=false`
+`https://5eb9ba733f97140016992030.mockapi.io/vehicle?page=1&limit=10`
+
+- Buscar um veiculo pelo numero da placa:
+
+`https://5eb9ba733f97140016992030.mockapi.io/vehicle?filter=ABC-4852`
+
+- lista os itens com status active:
+
+`https://5eb9ba733f97140016992030.mockapi.io/vehicle?filter=true`
+
 
 ##### Objeto retornado pela API
 
