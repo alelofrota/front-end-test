@@ -1,14 +1,10 @@
 # Frontend Test - Alelo Frota 2020
 
-## Sobre o Alelo Frota
-
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+Estamos migrando todo o sistema legado do produto Frota da Alelo para uma nova tecnologia e buscamos desenvolvedores com experiência em Angular para nos ajudar nesse desafio.
 
 ---
 
-## Stack
-
-#### > Frontend
+## Stack Frontend
 
 - Angular (Versões de 2 a 9)
 - Integração de microserviços Java
@@ -23,22 +19,6 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 - Aplicações web responsivas
 - Design System
 - Flutter/Dart (APP Meu Abastecimento)
-
-#### > Backend
-
-- Java 8+
-- JSP
-- JPA
-- Rest
-- Spring Data
-- JUnit
-- Oracle 12g
-- Docker
-- Azure Pipeline
-- Jenkins
-- Mongo
-- Git
-- Filas JMS
 
 ---
 
