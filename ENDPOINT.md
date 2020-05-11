@@ -31,7 +31,7 @@
 }
 ``` 
 
-### Métodos
+### Métodos disponiveis
 
 `[GET] /vehicle` Lista todos veículos
 
