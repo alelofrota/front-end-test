@@ -8,6 +8,7 @@
 
 - Implementar a lógica de paginação para carregar 10 itens por página;
 - Implementar filtro de busca por placa do veículo;
+- Utilizar Angular 8+
 
 
 ### O que esperamos ver

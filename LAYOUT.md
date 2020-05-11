@@ -1,19 +1,24 @@
 ### Layout
+---
+
+
+- **Mobile**: 420px;
+- **Desktop**: 1280px;
 
 Home: 
-![alt text](https://github.com/aleloauto/front-end-test/blob/new-test/layout/home.png)
+![Imagem da home](./layout/home.png)
 
 ---
 
 Modal ao clicar para excluir um veículo: 
-![alt text](https://github.com/aleloauto/front-end-test/blob/new-test/layout/modal-delete.png)
+![Imagem da home com modal](./layout/modal-delete.png)
 
 ---
 
 Formulário de cadastro: 
-![alt text](https://github.com/aleloauto/front-end-test/blob/new-test/layout/form.png)
+![Imagem do formulário](./layout/form.png)
 
 ---
 
 Edição de cadastro: 
-![alt text](https://github.com/aleloauto/front-end-test/blob/new-test/layout/update.png)
+![Imagem da edição](./layout/update.png)
