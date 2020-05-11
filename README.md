@@ -36,8 +36,9 @@ O Alelo Frota, que é uma plataforma que gerencia todas as suas despesas automot
 
 - Integrar os dados na tela utilizando a [API](./ENDPOINT.md) criado no [mockapi.io](https://5eb9ba733f97140016992030.mockapi.io/vehicle);
 
-- Implementar a lógica de paginação para carregar 10 itens por página (5 paginas);
-- Implementar filtro de busca por placa do veículo;
+- Implementar busca por placa ao clicar no icone de editar e carregar dados do veiculo;
+- Implementar filtro de busca por placa do veículo e atualizar tabela;
+- Implementar a lógica de paginação para carregar 10 itens por página (5 paginas o total maximo que a API retorna);
 - Deve ser feito utilizando Angular 8+ e pré-processador SCSS;
 
 ---
