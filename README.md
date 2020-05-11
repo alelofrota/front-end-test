@@ -7,7 +7,7 @@ Estamos migrando todo o sistema legado do produto Frota da Alelo para uma nova t
 ## Stack Frontend
 
 - Angular (Versões de 2 a 9)
-- Integração de microserviços Java
+- Consumo de API's REST
 - TypeScript
 - JavaScript (ES5 e ES6)
 - HTML, HTML5
@@ -17,8 +17,6 @@ Estamos migrando todo o sistema legado do produto Frota da Alelo para uma nova t
 - Pré-processador SCSS
 - Google Analytics
 - Aplicações web responsivas
-- Design System
-- Flutter/Dart (APP Meu Abastecimento)
 
 ---
 
