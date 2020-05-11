@@ -1,15 +1,46 @@
 # Frontend Test - Alelo Frota 2020
----
 
-## Sobre o Alelo Auto
+## Sobre o Alelo Frota
 
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
+---
+
 ## Stack
 
-- *Frontend*: Angular 8, SCSS (com metodologia BEM CSS), Design System interno
-- *Backend*: Springboot, ...
+#### > Frontend
 
+- Angular (Versões de 2 a 9)
+- Integração de microserviços Java
+- TypeScript
+- JavaScript (ES5 e ES6)
+- HTML, HTML5
+- CSS, CSS3
+- Orientação a objeto
+- Noções de UX/UI
+- Pré-processador SCSS
+- Google Analytics
+- Aplicações web responsivas
+- Design System
+- Flutter/Dart (APP Meu Abastecimento)
+
+#### > Backend
+
+- Java 8+
+- JSP
+- JPA
+- Rest
+- Spring Data
+- JUnit
+- Oracle 12g
+- Docker
+- Azure Pipeline
+- Jenkins
+- Mongo
+- Git
+- Filas JMS
+
+---
 
 ## Objetivo
 
@@ -20,6 +51,8 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 - Implementar a lógica de paginação para carregar 10 itens por página;
 - Implementar filtro de busca por placa do veículo;
 - Deve ser feito utilizando Angular 8+ e pré-processador SCSS;
+
+---
 
 
 ### O que esperamos ver
