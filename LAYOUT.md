@@ -15,10 +15,3 @@ Modal ao clicar para excluir um veículo:
 
 ---
 
-Formulário de cadastro: 
-![Imagem do formulário](./layout/form.png)
-
----
-
-Edição de cadastro: 
-![Imagem da edição](./layout/update.png)
