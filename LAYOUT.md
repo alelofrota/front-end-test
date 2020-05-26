@@ -16,5 +16,6 @@ Modal ao clicar para excluir um veículo:
 
 Tela de cadastro (ao clicar no icone da table, devera buscar os dados na API pra preencher os dados): 
 ![Imagem da home com modal](./layout/cadastro.png)
+
 ---
 
